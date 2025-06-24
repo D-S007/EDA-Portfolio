@@ -24,4 +24,4 @@ This repo contains all my Exploratory Data Analysis work
 # Resources for learning, datasets
 - Meta Kaggle, 
 - Google dataset search; 
-- .ipynb files; plotly & Dash to make Visualizations & interactive Dashboards
+- .ipynb files; plotly & Dash to make Visualizations & interactive Dashboards.
